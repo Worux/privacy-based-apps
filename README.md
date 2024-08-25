@@ -4,7 +4,7 @@
   <thead>
     <tr>
       <td><a href="#web-browsers">Web Browser</a></td>
-      <td><a href="#vpn-sevices">VPN Services</a></td>
+      <td><a href="#vpn-services">VPN Services</a></td>
       <td><a href="#passmanager-services">Password Manager-Services</a></td>
     </tr>
   </thead>
