@@ -1,5 +1,24 @@
 # Privacy Based App List:
 
+<h2 class="#network-services">Network Services:</h2>
+<h3><ul>
+  <li>Tor (Free)</li>
+  <li>i2p (Free)</li>
+  <li>Freenet (Free)</li>
+</ul></h3>
+
+<hr>
+
+<h2 class="#dns-services">Dns Services:</h2>
+<h3><ul>
+  <li>Mullvad (Free)</li>
+  <li>NextDNS (Free-trial)</li>
+  <li>DNS.WATCH (Free)</li>
+  <li>Quad9 (Free)</li>
+</ul></h3>
+
+<hr>
+
 <h2 class="#web-browser">Web Browsers:</h2>
 <h3><ul>
   <li>Floorp (Windows, Linux. Free)</li>
@@ -50,6 +69,8 @@
   <li>Matrix, (All Alatforms, Free)</li>
   <li>Session, (All Platforms, Free)</li>
 </ul></h3>
+
+<hr>
 
 <h2 class="#search-services">Search Services:</h2>
   <h3><ul>
