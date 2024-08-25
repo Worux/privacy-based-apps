@@ -1,13 +1,13 @@
 # Privacy Based App List:
 
 <table>
-  <thead>
+  <tbody>
     <tr>
       <td><a href="#web-browsers">Web Browser</a></td>
       <td><a href="#vpn-services">VPN Services</a></td>
       <td><a href="#passmanager-services">Password Manager-Services</a></td>
     </tr>
-  </thead>
+  </tbody>
 </table>
 
 <h2 class="#web-browser">Web Browsers:</h2>
