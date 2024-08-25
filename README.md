@@ -20,7 +20,7 @@
 
 <hr>
 
-<h2 class="passmanager-services"></h2>
+<h2 class="passmanager-services">Password-Manager Services:</h2>
 <h3><ul>
   <li>KeePass (All Platforms, Free)</li>
   <li>Bitwarden (All Platforms, Free)</li>
