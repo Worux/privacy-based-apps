@@ -2,7 +2,7 @@
 
 <h2 class="#web-browser">Web Browsers:</h2>
 <h3><ul>
-  <li>Floorp (Windows, Linux. <a color="green">Free</a>)</li>
+  <li>Floorp (Windows, Linux. <font color="green">Free</font>)</li>
   <li>Iceraven (Android, Free)</li>
   <li>Tor Browser (All Platforms, Free)</li>
   <li>Brave (All Platforms, Free)</li>
