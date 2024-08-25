@@ -1,5 +1,13 @@
 # Privacy Based App List:
 
+<table>
+  <thead>
+    <tr>
+      <td><a href="#web-browsers">Web-Browser</a></td>
+    </tr>
+  </thead>
+</table>
+
 <h2 class="#web-browser">Web Browsers:</h2>
 <h3><ul>
   <li>Floorp (Windows, Linux. Free)</li>
