@@ -3,7 +3,7 @@
 <table>
   <thead>
     <tr>
-      <td><a href="#web-browsers">Web-Browser</a></td>
+      <td><a href="#web-browsers">Web Browser</a></td> <td><a href="#vpn-sevices">VPN Services</a></td> <td><a href="#passmanager-services">Password Manager-Services</a></td>
     </tr>
   </thead>
 </table>
@@ -19,7 +19,7 @@
 
 <hr>
 
-<h2 class="vpn-sevices">VPN Services:</h2>
+<h2 class="#vpn-sevices">VPN Services:</h2>
 <h3><ul>
   <li>Mullvad (All Platforms, Paid)</li>
   <li>RiseupVPN (All Platforms, Free)</li>
@@ -28,7 +28,7 @@
 
 <hr>
 
-<h2 class="passmanager-services">Password-Manager Services:</h2>
+<h2 class="#passmanager-services">Password-Manager Services:</h2>
 <h3><ul>
   <li>KeePass (All Platforms, Free)</li>
   <li>Bitwarden (All Platforms, Free)</li>
@@ -36,7 +36,7 @@
 
 <hr>
 
-<h2 class="google-services">Google Services:</h2>
+<h2 class="#google-services">Google Services:</h2>
 <h3><ul>
   <li>MicroG (Android, Free)</li>
   <li>Aurora Store (Android, Free)</li>
@@ -44,7 +44,7 @@
 
 <hr>
 
-<h2 class="email-services">Email Services</h2>
+<h2 class="#email-services">Email Services</h2>
 <h3><ul>
   <li>ProtonMail, (Has Free Subscription)</li>
   <li>TutaMail, (Has Free Subscription)</li>
@@ -53,13 +53,13 @@
 
 <hr>
 
-<h2 class="messaging-services">Messaging Services</h2>
+<h2 class="#messaging-services">Messaging Services</h2>
 <h3><ul>
   <li>Matrix, (All Alatforms, Free)</li>
   <li>Session, (All Platforms, Free)</li>
 </ul></h3>
 
-<h2 class="search-services">Search Services:</h2>
+<h2 class="#search-services">Search Services:</h2>
   <h3><ul>
     <li>Kiga (Has Free Subscription)</li>
     <li>SearX (Free)</li>
