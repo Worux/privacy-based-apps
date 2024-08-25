@@ -3,7 +3,9 @@
 <table>
   <thead>
     <tr>
-      <td><a href="#web-browsers">Web Browser</a></td> <td><a href="#vpn-sevices">VPN Services</a></td> <td><a href="#passmanager-services">Password Manager-Services</a></td>
+      <td><a href="#web-browsers">Web Browser</a></td>
+      <td><a href="#vpn-sevices">VPN Services</a></td>
+      <td><a href="#passmanager-services">Password Manager-Services</a></td>
     </tr>
   </thead>
 </table>
@@ -19,7 +21,7 @@
 
 <hr>
 
-<h2 class="#vpn-sevices">VPN Services:</h2>
+<h2 class="#vpn-services">VPN Services:</h2>
 <h3><ul>
   <li>Mullvad (All Platforms, Paid)</li>
   <li>RiseupVPN (All Platforms, Free)</li>
