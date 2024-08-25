@@ -51,7 +51,7 @@
   <li>Session, (All Platforms, Free)</li>
 </ul></h3>
 
-<h2 class="search-services"></h2>
+<h2 class="search-services">Search Services:</h2>
   <h3><ul>
     <li>Kiga (Has Free Subscription)</li>
     <li>SearX (Free)</li>
