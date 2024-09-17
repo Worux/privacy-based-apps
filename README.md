@@ -13,7 +13,7 @@
 <h3><ul>
   <li>Mullvad (Free)</li>
   <li>NextDNS (Free-trial)</li>
-  <li>DNS.WATCH (Free)</li>
+  <li>ControlD (Free)</li>
   <li>Quad9 (Free)</li>
 </ul></h3>
 
